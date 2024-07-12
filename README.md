@@ -22,18 +22,18 @@ This project involves analyzing data from TATA Motors' online retail business to
 - Price Validation: Excluded records with unit prices below $0 to correct pricing errors.
 
 ### Insights
-1- Time Series of Revenue Data for 2011:
+- Time Series of Revenue Data for 2011:
 
-- Analyzed monthly revenue trends for 2011, highlighting seasonal patterns and peak periods.
-2- Top 10 Countries by Revenue (Excluding the UK):
+  Analyzed monthly revenue trends for 2011, highlighting seasonal patterns and peak periods.
+- Top 10 Countries by Revenue (Excluding the UK):
 
-- Identified the top 10 revenue-generating countries, excluding the UK, and analyzed both revenue and quantity sold.
-3- Top 10 Customers by Revenue:
+  Identified the top 10 revenue-generating countries, excluding the UK, and analyzed both revenue and quantity sold.
+- Top 10 Customers by Revenue:
 
-- Determined the top 10 customers by revenue to understand their contribution to total revenue and identify key customer segments.
-4- Demand by Region (Excluding the UK):
+  Determined the top 10 customers by revenue to understand their contribution to total revenue and identify key customer segments.
+-  Demand by Region (Excluding the UK):
 
-- Analyzed product demand across different regions, excluding the UK, to identify high-demand areas for potential expansion.
+  Analyzed product demand across different regions, excluding the UK, to identify high-demand areas for potential expansion.
 
 ## Recommendations
 - Optimize High-Performing Product Categories: Focus resources on top-performing products identified in the revenue analysis.
