@@ -33,7 +33,7 @@ This project involves analyzing data from TATA Motors' online retail business to
   Determined the top 10 customers by revenue to understand their contribution to total revenue and identify key customer segments.
 -  Demand by Region (Excluding the UK):
 
-  Analyzed product demand across different regions, excluding the UK, to identify high-demand areas for potential expansion.
+   Analyzed product demand across different regions, excluding the UK, to identify high-demand areas for potential expansion.
 
 ## Recommendations
 - Optimize High-Performing Product Categories: Focus resources on top-performing products identified in the revenue analysis.
