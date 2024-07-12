@@ -46,5 +46,4 @@ This project involves analyzing data from TATA Motors' online retail business to
 
 ## Portfolio Showcase
 -This project demonstrates skills in data analysis and transformation, visualization, storytelling, and presentation relevant to marketing and sales for businesses.
-[Presentation](https://drive.google.com/drive/u/0/home)
-
+[Presentation](https://drive.google.com/file/d/1I4Hx6UNnSoV1OJMLTV-zu1utko2e24JQ/view?usp=sharing)
